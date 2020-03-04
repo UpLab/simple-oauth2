@@ -1,6 +1,5 @@
 'use strict';
 
-const { URL } = require('url');
 const nock = require('nock');
 const Hoek = require('@hapi/hoek');
 const Boom = require('@hapi/boom');
